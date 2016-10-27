@@ -10,5 +10,5 @@ Have you ever wanted to comment on a new article that was BS! and there was no w
 or you had to wait for comment to be aproved by some moderator!
 Well all that ends now!
 
-alternaitive quik instal link here
+alternative quik instal link here
 http://trainer0.website/UnCensorMe/UnCensorMe.user.js
