@@ -1,3 +1,3 @@
-# Tutorial
+# UnCensorMe
 
-This is my tutorial repository.
+This is a Userscript to ad uncensored comment to every webpage.
