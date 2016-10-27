@@ -6,7 +6,7 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 or your favorite Userscript method
 and add this script
 
-Have you ever wanted to comment on a new article that was BS! and there was no way to be cause comment were disabled!
+Have you ever wanted to comment on a new article that was BS! and there was no way to because comment were disabled!
 or you had to wait for comment to be aproved by some moderator!
 Well all that ends now!
 
